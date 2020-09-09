@@ -1,0 +1,7 @@
+default:
+  extension: .conf
+  output: colors
+
+qt5ct_appearance_conf:
+  extension: .conf
+  output: qt5ct_appearance_conf
