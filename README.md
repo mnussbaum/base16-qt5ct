@@ -1,12 +1,13 @@
 # base16-qt5ct
 
-This repo provides templates for using
+This repo provides templates for
 [Base16](https://github.com/chriskempson/base16) color schemes with
 [qt5ct](https://sourceforge.net/projects/qt5ct/), a program for configuring Qt5
 settings under light-weight desktops like Sway or i3.
 
-To install copy the qt5ct.conf file to `~/.config/qt5ct/qt5ct.conf` and the
-colors file to `~/.config/qt5ct/colors/base16-<colorscheme name>.conf`.
+To install, copy a config file from `qt5ct_appearance_conf/base16-<colorscheme name>.conf` to `~/.config/qt5ct/qt5ct.conf` and a colors file from
+`colors/base16-<colorscheme name>confg` to
+`~/.config/qt5ct/colors/base16-<colorscheme name>.conf`.
 
 The colors in the template are ordered as follows:
 
